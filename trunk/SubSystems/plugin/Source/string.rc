@@ -1,0 +1,6 @@
+
+STRINGTABLE
+LANGUAGE LANG_RUSSIAN, 0x1
+{
+100,  "SubSystems.Artbear_ActiveFormX"
+}
